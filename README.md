@@ -15,7 +15,7 @@ Key features of the Garden System include:
 
   -  Soil Moisture Monitoring: The system employs a soil moisture sensor to accurately measure soil moisture levels.
 
-  -  Automated Irrigation: When the soil becomes dry, the system activates the water flow control mechanism to irrigate the garden.\
+  -  Automated Irrigation: When the soil becomes dry, the system activates the water flow control mechanism to irrigate the garden.
     
   -  Conversely, it stops or reduces water flow when the soil is adequately moist.
 
